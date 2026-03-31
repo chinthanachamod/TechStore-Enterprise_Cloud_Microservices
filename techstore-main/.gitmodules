@@ -1,27 +1,27 @@
 [submodule "user-service"]
 	path = user-service
-	url = https://github.com/chinthanachamod/TechStore-User_Service.git
+	url = https://github.com/YOUR_USERNAME/TechStore-User_Service.git
 
 [submodule "product-service"]
 	path = product-service
-	url = https://github.com/chinthanachamod/TechStore-Product_Service.git
+	url = https://github.com/YOUR_USERNAME/TechStore-Product_Service.git
 
 [submodule "media-service"]
 	path = media-service
-	url = https://github.com/chinthanachamod/TechStore-Media_Service.git
+	url = https://github.com/YOUR_USERNAME/TechStore-Media_Service.git
 
 [submodule "config-server"]
 	path = config-server
-	url = https://github.com/chinthanachamod/TechStore-Config_Server.git
+	url = https://github.com/YOUR_USERNAME/TechStore-Config_Server.git
 
 [submodule "eureka-server"]
 	path = eureka-server
-	url = https://github.com/chinthanachamod/TechStore-Eureka_Server.git
+	url = https://github.com/YOUR_USERNAME/TechStore-Eureka_Server.git
 
 [submodule "api-gateway"]
 	path = api-gateway
-	url = https://github.com/chinthanachamod/TechStore-Api_Gateway.git
+	url = https://github.com/YOUR_USERNAME/TechStore-Api_Gateway.git
 
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/chinthanachamod/TechStore-Frontend_React.git
+	url = https://github.com/YOUR_USERNAME/TechStore-Frontend_React.git
