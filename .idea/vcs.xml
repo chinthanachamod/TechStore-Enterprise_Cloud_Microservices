@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/backend-platform/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend-platform/config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend-platform/eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend-services/media-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend-services/product-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backend-services/user-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend-react" vcs="Git" />
+  </component>
+</project>
